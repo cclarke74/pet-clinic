@@ -16,4 +16,4 @@ phases:
       - echo This is a Post Build Step. Build Completed `date`
 artifacts:
   files:
-    - target/simplilearn-spring-0.0.1-SNAPSHOT.jar
+    - target/spring-boot-starter-parent-0.0.1-SNAPSHOT.jar
