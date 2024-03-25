@@ -1,4 +1,4 @@
-package com.simplilearn.spring;
+package com.clairclarke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

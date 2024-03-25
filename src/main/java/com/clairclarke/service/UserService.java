@@ -1,4 +1,4 @@
-package com.simplilearn.spring.service;
+package com.clairclarke.service;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.simplilearn.spring.bean.User;
-import com.simplilearn.spring.dao.UserDao;
+import com.clairclarke.bean.User;
+import com.clairclarke.dao.UserDao;
 
 @Service
 public class UserService {

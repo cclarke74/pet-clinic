@@ -1,6 +1,7 @@
-package com.simplilearn.spring.bean;
+package com.clairclarke.bean;
 
 import java.util.Date;
+
 
 import org.springframework.format.annotation.DateTimeFormat;
 

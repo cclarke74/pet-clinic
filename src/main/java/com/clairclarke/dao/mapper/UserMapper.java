@@ -1,11 +1,11 @@
-package com.simplilearn.spring.dao.mapper;
+package com.clairclarke.dao.mapper;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import org.springframework.jdbc.core.RowMapper;
 
-import com.simplilearn.spring.bean.User;
+import com.clairclarke.bean.User;
 
 public class UserMapper implements RowMapper<User> {
 

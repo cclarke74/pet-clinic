@@ -1,4 +1,4 @@
-package com.simplilearn.spring.dao;
+package com.clairclarke.dao;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.dao.support.DataAccessUtils;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import com.simplilearn.spring.bean.User;
-import com.simplilearn.spring.dao.mapper.UserMapper;
+import com.clairclarke.bean.User;
+import com.clairclarke.dao.mapper.UserMapper;
 
 @Repository
 public class UserDao {

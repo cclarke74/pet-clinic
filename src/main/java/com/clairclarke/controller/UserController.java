@@ -1,4 +1,4 @@
-package com.simplilearn.spring.controller;
+package com.clairclarke.controller;
 
 import java.util.List;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.simplilearn.spring.bean.User;
-import com.simplilearn.spring.service.UserService;
+import com.clairclarke.bean.User;
+import com.clairclarke.service.UserService;
 
 @Controller
 public class UserController {
